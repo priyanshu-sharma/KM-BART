@@ -13,7 +13,7 @@ dependencies:
   - ca-certificates=2020.10.14=0
   - certifi=2020.6.20=pyhd3eb1b0_3
   - cffi=1.14.3=py38he30daa8_0
-  - cudatoolkit=10.1.243=h6bb024c_0
+#  - cudatoolkit=10.1.243=h6bb024c_0
   - dbus=1.13.18=hb2f20db_0
   - decorator=4.4.2=py_0
   - expat=2.2.10=he6710b0_2
